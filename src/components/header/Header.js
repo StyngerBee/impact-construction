@@ -17,7 +17,7 @@
 // export default Navigation;
 
 
-//^^^^^^^^^^^^^^^^ code for linking components to router.
+//^^^^^^^^^^^^^^^^ example code for linking components to router.
 
 import React from 'react';
 import { Link } from 'react-router-dom';
@@ -28,6 +28,8 @@ function Header() {
             <ul>
                 <li><Link to='/'>Home</Link></li>
                 <li><Link to='/About'>About</Link></li>
+                <li><Link to='/Work'> Our Work</Link></li>
+                <li><Link to='/Contact'>Contact Us</Link></li>
             </ul>
         </nav>
     );
