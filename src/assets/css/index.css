@@ -5,5 +5,13 @@
     --secondary-text-color: #cecece;
     --border-radius: 8px;
     --speed: 500ms;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding-top: 50px;
+    margin: 0;
 }
 
