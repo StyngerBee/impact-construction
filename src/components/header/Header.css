@@ -4,6 +4,7 @@ nav {
     top: 0;
     position: fixed;
     z-index: 1;
+    
 }
 
 nav ul {
@@ -12,7 +13,7 @@ nav ul {
     margin: 0;
     padding: 10px;
     overflow: hidden;
-
+    
 }
 
 ul {
@@ -26,11 +27,12 @@ li {
     margin: 10px;
     display: inline;
     float: right;
-
+    
 }
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 
