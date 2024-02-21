@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/impact-construction/static/css/main.cefa8dcb.css",
-    "main.js": "/impact-construction/static/js/main.9bf9b021.js",
+    "main.css": "/impact-construction/static/css/main.8c15867a.css",
+    "main.js": "/impact-construction/static/js/main.5e25203f.js",
     "index.html": "/impact-construction/index.html",
-    "main.cefa8dcb.css.map": "/impact-construction/static/css/main.cefa8dcb.css.map",
-    "main.9bf9b021.js.map": "/impact-construction/static/js/main.9bf9b021.js.map"
+    "main.8c15867a.css.map": "/impact-construction/static/css/main.8c15867a.css.map",
+    "main.5e25203f.js.map": "/impact-construction/static/js/main.5e25203f.js.map"
   },
   "entrypoints": [
-    "static/css/main.cefa8dcb.css",
-    "static/js/main.9bf9b021.js"
+    "static/css/main.8c15867a.css",
+    "static/js/main.5e25203f.js"
   ]
 }
