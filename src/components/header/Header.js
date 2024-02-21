@@ -30,24 +30,24 @@ function Header() {
     return (
         <nav>
             <ul>
-                <li><Link to='/'>Home</Link></li>
+                <li><Link to='/impact-construction/'>Home</Link></li>
                 <li className='menu-container' ref={menuRef}>
                     <btn className='menu-trigger' onClick={() =>{setOpen(!open)}}>
                         About Us
                     </btn>
                     <div className={`dropdown-menu ${open? 'active': 'inactive'}`}>
                         <ul>
-                            <DropdownItem text={<Link to='/Testimonials'>Testimonials</Link>}></DropdownItem>
-                            <DropdownItem text={<Link to='/Testimonials'>Testimonials</Link>}></DropdownItem>
-                            <DropdownItem text={<Link to='/Testimonials'>Testimonials</Link>}></DropdownItem>
-                            <DropdownItem text={<Link to='/Testimonials'>Testimonials</Link>}></DropdownItem>
+                            <DropdownItem text={<Link to='/impact-construction/Testimonials'>Testimonials</Link>}></DropdownItem>
+                            <DropdownItem text={<Link to='/impact-construction/Testimonials'>Testimonials</Link>}></DropdownItem>
+                            <DropdownItem text={<Link to='/impact-construction/Testimonials'>Testimonials</Link>}></DropdownItem>
+                            <DropdownItem text={<Link to='/impact-construction/Testimonials'>Testimonials</Link>}></DropdownItem>
 
                         </ul>
                     </div>
 
                 </li>
-                <li><Link to='/Work'> Our Work</Link></li>
-                <li><Link to='/Contact'>Contact Us</Link></li>
+                <li><Link to='/impact-construction/Work'> Our Work</Link></li>
+                <li><Link to='/impact-construction/Contact'>Contact Us</Link></li>
             </ul>
         </nav>
     );
