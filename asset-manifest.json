@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/impact-construction/static/css/main.f59fa665.css",
+    "main.js": "/impact-construction/static/js/main.4c1c5c2e.js",
+    "index.html": "/impact-construction/index.html",
+    "main.f59fa665.css.map": "/impact-construction/static/css/main.f59fa665.css.map",
+    "main.4c1c5c2e.js.map": "/impact-construction/static/js/main.4c1c5c2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59fa665.css",
+    "static/js/main.4c1c5c2e.js"
+  ]
+}
